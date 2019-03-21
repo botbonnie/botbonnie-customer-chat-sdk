@@ -1,5 +1,9 @@
 # botbonnie-customer-chat-sdk
 
+## Demo
+
+https://botbonnie.github.io/botbonnie-customer-chat-sdk/
+
 ## Examples
 
 ```html
